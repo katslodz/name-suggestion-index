@@ -1694,7 +1694,7 @@
        "brand:wikidata": "Q848059",
        "name": "Mahindra & Mahindra", 
        "alt_name": "Mahindra",
-       "amenity": "shop"
+       "shop": "car"
    }
 }
   ]
