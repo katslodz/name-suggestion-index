@@ -1772,6 +1772,20 @@
         "name:zh-Hans": "雷克萨斯",
         "shop": "car"
       }
-    }
+    },
+    {
+   "displayName": "VinFast",
+   "locationSet": {
+       "include": [
+           "vn", "in", "id", "th", "ph", "us", "ca", "fr", "de", "nl", "om", "ae"
+       ]
+   },
+   "tags": {
+       "brand": "VinFast",
+       "brand:wikidata": "Q56660561",
+       "name": "VinFast", 
+       "shop": "car"
+   }
+}
   ]
 }
